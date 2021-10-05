@@ -112,9 +112,9 @@ h5{
     .container{
         height: 100%;
     }
-    .card{
+    /* .card{
         margin-left: 50px;
-    }
+    } */
 }
 @media screen and (min-width:370px) and (max-width:768px) {
     .container{
@@ -127,6 +127,5 @@ h5{
     }
     .card{
         width: 500px;
-        margin-left: 50px;
     }
 }
